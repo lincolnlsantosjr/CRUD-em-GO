@@ -1,0 +1,1 @@
+// aqui teremos as propriedades do nosso objeto
